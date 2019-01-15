@@ -1,0 +1,73 @@
+  <style type="text/css">
+
+#row {
+  background-color: #cccccc;
+}
+
+  a {color: black; float: right;}
+
+  #center {
+      
+        border: 5px solid teal
+        ;
+        background-color: white;
+       height: 50%; 
+      width: 50%;
+      margin: 15%;
+      padding: 5%;
+    }
+
+
+
+  ul {float: right;
+    list-style-type: none;
+
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #4aaaa5 ;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #444;
+}
+
+
+    
+  p {float: center; width: 75%}
+
+h1 {color: white;}
+h4 {color: black; float: top;} 
+}
+h3 {text-align: left; color: black;
+    } 
+
+
+    ul {float: right;}
+ 
+
+
+    .footer {
+      border-top: 8px solid #4aaaa5;
+      height: 35px;
+      background-color: grey;
+      width: 100%;
+    }
+
+h1 {background-color: teal; width: 40%}
+
+div.panel {float: top; float: left; width: 85%}
+
+</style>

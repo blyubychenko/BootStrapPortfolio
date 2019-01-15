@@ -1,0 +1,78 @@
+<style type="text/css">
+
+div.panel {float: top; float: right; width: 85%}
+
+a {float: bottom;}
+
+body {float: left; width: 500px; background-color: white;
+    margin: auto;
+    width: 60%;
+    border: 3px solid #4aaaa5;
+    padding: 10px;}
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+ textarea {width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;}
+
+	p {color: purple;}
+	text area {background-color: teal;}
+	h1 {color: black;}
+h4 {color: black; float: right;} 
+h1 {background-color: teal;}
+	.button {
+    background-color: #4aaaa5; 
+    color: black; 
+    border: 2px solid #4aaaa5;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+  ul {float: right;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #4aaaa5 ;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #444;
+}
+
+   .footer {
+      border-top: 8px solid #4aaaa5;
+      height: 35px;
+      background-color: grey;
+      width: 100%;
+    }
+
+
+ hr {color: #4aaaa5; }
+
+ img {border-style: double;
+    border-color: #4aaaa5;}
+    div {float: top;}
+    
+</style>
